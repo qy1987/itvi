@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import requests
 import re
-
+  
 urls = [
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=",  # 北京
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0ic2hhbmdoYWki",  # 上海
