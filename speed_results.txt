@@ -1,0 +1,17 @@
+CCTV3,http://125.42.148.148:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0,1.401 MB/s
+CCTV4,http://125.42.148.148:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0,1.067 MB/s
+CCTV5,http://125.42.148.148:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,1.721 MB/s
+CCTV6,http://125.42.148.148:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,1.073 MB/s
+CCTV9,http://125.42.148.148:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,1.280 MB/s
+CCTV10,http://125.42.148.148:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,1.521 MB/s
+CCTV11,http://125.42.148.148:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0,1.157 MB/s
+CCTV12,http://125.42.148.148:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0,1.401 MB/s
+CCTV13,http://125.42.148.148:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0,1.438 MB/s
+CCTV14,http://125.42.148.148:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0,1.294 MB/s
+CCTV15,http://125.42.148.148:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0,1.073 MB/s
+东南卫视,http://125.42.148.148:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,1.400 MB/s
+厦门卫视,http://125.42.148.148:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,1.052 MB/s
+广东卫视,http://125.42.148.148:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.280 MB/s
+江西卫视,http://125.42.148.148:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0,1.521 MB/s
+河南卫视,http://125.42.148.148:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0,1.067 MB/s
+深圳卫视,http://125.42.148.148:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,1.431 MB/s
