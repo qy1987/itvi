@@ -1,5 +1,0 @@
-CCTV4,http://221.13.235.199:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0,1.095 MB/s
-CCTV11,http://221.13.235.199:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,1.095 MB/s
-CCTV12,http://221.13.235.199:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,1.117 MB/s
-CCTV15,http://221.13.235.199:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0,1.267 MB/s
-河南卫视,http://221.13.235.199:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0,1.143 MB/s
