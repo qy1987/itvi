@@ -1,0 +1,11 @@
+CCTV4,http://221.193.168.84:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV7,http://221.193.168.84:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV9,http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV10,http://218.13.170.98:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV13,http://221.193.168.84:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山东卫视,http://218.13.170.98:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+新疆卫视,http://218.13.170.98:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
